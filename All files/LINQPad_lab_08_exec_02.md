@@ -1,3 +1,4 @@
+```csharp
 void Main()
 {
     List<LocationModel> locationList = new List<LocationModel>
@@ -73,3 +74,4 @@ public class LocationTemperatureModel
 
     public LocationTemperatureModel(){}
 }
+```
